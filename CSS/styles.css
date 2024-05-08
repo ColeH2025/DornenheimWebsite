@@ -118,3 +118,7 @@ Form
       background-color: #fcfcfa;
     }
   }
+
+  * {
+    color: white;
+  }
